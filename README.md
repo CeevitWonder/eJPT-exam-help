@@ -4,7 +4,7 @@
 
 [![eJPT](https://img.shields.io/badge/Certification-eJPT_v2-blue?logo=ine)](https://ine.com/learning/certifications/official/ejpt-junior-penetration-tester)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
-[![PDF](https://img.shields.io/badge/Download-PDF-red?logo=adobeacrobatreader)](eJPT_Study_Guide.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-red?logo=adobeacrobatreader)](eJPT.pdf)
 
 ⚠️ **Disclaimer**: This guide contains **general study notes, command references, and methodology tips** based on publicly available information and personal learning. It does **not** include actual exam questions, answers, or proprietary content from INE/eLearnSecurity. Always review the [official eJPT exam policies](https://ine.com/pages/ejpt-exam-policies) before studying.
 
