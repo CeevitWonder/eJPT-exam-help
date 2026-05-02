@@ -26,7 +26,7 @@
 
 ## 📥 Download
 
-📄 **[eJPT_Study_Guide.pdf](eJPT_Study_Guide.pdf)** *(Direct PDF Download)*
+📄 **[eJPT.pdf](eJPT_Study_Guide.pdf)** *(Direct PDF Download)*
 
 > 💡 Tip: Right-click → "Save link as..." to download. View online via GitHub's PDF preview.
 
