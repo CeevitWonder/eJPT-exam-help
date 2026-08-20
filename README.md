@@ -36,7 +36,7 @@
 
 ```
 # 1. Clone this repo
-git clone https://github.com/YOUR_USERNAME/ejpt-study-guide.git
+git clone https://github.com/CeevitWonder/ejpt-study-guide.git
 cd ejpt-study-guide
 
 # 2. Set up your lab (Kali recommended)
